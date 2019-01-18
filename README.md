@@ -19,4 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 
 You can find MongoDB at [https://www.mongodb.com/](https://www.mongodb.com/)
 
+Go into /lib/config.dart, and set SERVICE_HOST to the web address you want to use for the REST service. 
+
 
